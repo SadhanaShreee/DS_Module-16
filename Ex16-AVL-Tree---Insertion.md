@@ -81,6 +81,7 @@ node * insert(node *T,int x)
 
 ## Output:
 
+![Screenshot 2025-05-18 125541](https://github.com/user-attachments/assets/90aeb699-92a2-4462-92c2-2601c697ec31)
 
 
 ## Result:
