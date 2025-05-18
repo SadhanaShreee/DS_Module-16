@@ -47,6 +47,7 @@ void traverse(struct B_TreeNode *p)
 
 ## Output:
 
+![Screenshot 2025-05-18 130808](https://github.com/user-attachments/assets/89b65b2f-1563-406b-9683-54cc6dc918c9)
 
 
 ## Result:
