@@ -13,7 +13,6 @@ To write a C function to delete an element from an AVL Tree.
 
 ## Program:
 ```
-/*
 Program to find and display the priority of the operator in the given Postfix expression
 Developed by: SADHANA SHREE B
 RegisterNumber: 212223230177
@@ -36,7 +35,7 @@ node *RR(node *);
 node *LL(node *);
 node *LR(node *);
 node *RL(node *);
-int BF(node *);*/
+int BF(node *);
 node * Delete(node *T,int x)
 {
     node *p;
@@ -98,6 +97,7 @@ node * Delete(node *T,int x)
 
 ## Output:
 
+![Screenshot 2025-05-18 131037](https://github.com/user-attachments/assets/37f25e6c-95c1-467f-bc35-7d015601e41c)
 
 
 ## Result:
