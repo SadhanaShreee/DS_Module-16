@@ -54,6 +54,7 @@ return (y);
 
 ## Output:
 
+![Screenshot 2025-05-18 130247](https://github.com/user-attachments/assets/bfd6eb6e-76b2-4540-bedd-2c8e05590e99)
 
 
 ## Result:
