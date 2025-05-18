@@ -44,6 +44,7 @@ void delete (int item, struct BTreeNode *myNode) {
 
 ## Output:
 
+![Screenshot 2025-05-18 130540](https://github.com/user-attachments/assets/e28061b8-4123-4585-8e35-ccee40ea590e)
 
 
 ## Result:
